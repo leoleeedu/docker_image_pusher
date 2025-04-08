@@ -1,1 +1,5 @@
-infiniflow/ragflow：v0.17.2
+infiniflow/ragflow:v0.17.2
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+elasticsearch:8.11.3
+mysql:8.0.39
+valkey/valkey:8
